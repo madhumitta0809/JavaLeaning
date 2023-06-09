@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mypc
+ *
+ */
+module JavaCrashCourse {
+}
